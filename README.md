@@ -132,8 +132,9 @@ APPLE_CLIENT_ID= explanation below
 APPLE_TEAM_ID= explanation below
 APPLE_KEY_ID= explanation below
 APPLE_PRIVATE_KEY_PATH= explanation below
-SESSION_SECERT= explanation below
-VITE_CLIENT_ID= explanation below
+
+SESSION_SECERT= [whatever you want it to be]
+VITE_CLIENT_ID= [not being used]
 
 
 ```
